@@ -8,7 +8,7 @@ from displacement import *
 NUM_TESTS = 10000
 MAX_STEPS = 30
 
-# Tasks
+# Random Walk
 n = 10
 table = random_walk(n)
 
