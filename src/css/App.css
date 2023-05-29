@@ -1,0 +1,46 @@
+:root {
+    /* Sample Colors */
+    --orange: #F08700;
+    --sea: #47E5BC;
+    --sea-deep: #048A81;
+    --lime: #A1E44D;
+    --claret: #750D37;
+    --reddit: #FF4000;
+    --rose: #E71D36;
+    --charleston: #0B2027;
+    --libra: #CCFF00;
+
+    /* App Colors */
+    --primary-color: var(--sea);
+    --background-color: var(--charleston);
+    --theme-color-1: var(--libra);
+    /* --primary-color: var(--reddit);
+    --background-color: var(--rose);
+    --theme-color-1: var(--libra) */
+
+    /* Background Images */
+    /* --opal: url("../images/background/opal.png");
+    --crumple: url("../images/background/crumple.jpeg"); */
+
+    overflow-x: hidden;
+}
+
+.App {
+    width: 100vw;
+    height: 100vw;
+    
+    /* background-color: #111117; */
+    background-color: #ffffff;
+    /* color: white; */
+
+    display: flex;
+    flex-direction: row;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+
+    max-width: 100%;
+}

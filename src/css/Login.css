@@ -1,0 +1,21 @@
+.login-container {
+    margin-top: 100px;
+
+    background-color: white;
+}
+
+.login-box {
+    background-color: white;
+    /* margin-left: 100px; */
+}
+
+.sign-in-text {
+    background-color: white;
+    left: 100vw;
+    top: 100px;
+}
+
+.up {
+    background-color: white;
+    margin-top: 10px;
+}

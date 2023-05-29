@@ -1,0 +1,37 @@
+.Sidebar {
+    overflow: hidden;
+    margin: 4.5rem 0 0 0;
+    height: 59.43%;
+    width: 18%;
+    background-color: teal;
+    /* background-image: var(--crumple); */
+}
+
+.SidebarList {
+    padding: 0%;
+    height: auto;
+    width: 100%;
+}
+
+.label {
+    font-size: 20px;
+    margin-left: 4.6em;
+}
+
+/* .upload-image input{
+
+    visibility: hidden;
+} */
+
+.upload-image button{
+    cursor: pointer;
+    width: 5em;
+    height: 3em;
+    margin-left: 37%;
+}
+
+#getFile {
+    width: 14em;
+    margin-left: 4em;
+    font-size: 16px;
+}

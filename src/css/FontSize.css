@@ -1,0 +1,8 @@
+.change-size {
+    position: absolute;
+    font-size: 10em;
+    color: white;
+    background-color: black;
+    margin-top: 20em;
+    margin-left: 20em;
+}
